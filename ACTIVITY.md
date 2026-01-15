@@ -16,3 +16,6 @@ Upgraded PyTorch model with attention mechanisms for better lesion boundary dete
 ### 2026-01-15 - Update GradCAM explainability documentation and clinical validation
 Enhanced interpretability visualizations for dermatologist review. Added clinical validation metrics and confidence intervals.
 
+### 2026-01-15 - Update GradCAM explainability documentation and clinical validation
+Enhanced interpretability visualizations for dermatologist review. Added clinical validation metrics and confidence intervals.
+
