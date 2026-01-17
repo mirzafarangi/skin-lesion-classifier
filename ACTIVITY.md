@@ -28,3 +28,6 @@ Enhanced interpretability visualizations for dermatologist review. Added clinica
 ### 2026-01-17 - Enhance dermatological classification with improved CNN architecture
 Upgraded PyTorch model with attention mechanisms for better lesion boundary detection. Improved classification accuracy on melanoma cases.
 
+### 2026-01-18 - Integrate MLflow experiment tracking for model versioning
+Implemented comprehensive experiment logging with hyperparameter tracking. Added model registry for deployment management.
+
