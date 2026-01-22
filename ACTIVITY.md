@@ -43,3 +43,6 @@ Added data augmentation strategies for diverse patient populations. Enhanced pre
 ### 2026-01-22 - Improve model robustness for varied skin tones and lighting conditions
 Added data augmentation strategies for diverse patient populations. Enhanced preprocessing pipeline for image normalization.
 
+### 2026-01-22 - Enhance dermatological classification with improved CNN architecture
+Upgraded PyTorch model with attention mechanisms for better lesion boundary detection. Improved classification accuracy on melanoma cases.
+
